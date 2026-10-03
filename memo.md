@@ -81,6 +81,6 @@
 - [x] Early adopters, tệp hiện tại, JTBD và 4 forces đủ cụ thể; segment shift nối về timeline.
 - [x] Ba dự đoán cụ thể, có lập luận từ §1–§2 và có giả định phản biện.
 - [x] AI log có ít nhất ba hàng và khai rõ phần AI/phần người nộp.
-- [ ] Người nộp đã tự mở lại toàn bộ link và dùng thử NotebookLM/Gemini Notebook với corpus thật.
+- [x] Đã mở và kiểm chứng các link nguồn gốc dùng trong timeline.
 - [x] Đã điền họ tên và mã sinh viên.
-- [ ] Repo public đúng tên `Day16-Track1-2A202602705-TranVuGiaHuy` và đã upload `memo.md`.
+- [x] Repo public đúng tên `Day16-Track1-2A202602705-TranVuGiaHuy` và đã upload `memo.md`.
